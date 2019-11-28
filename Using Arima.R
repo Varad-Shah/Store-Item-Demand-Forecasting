@@ -43,7 +43,7 @@ MAE(validate_data$sales,submission$sales)   # [1] 11.39836
 RMSE(validate_data$sales,submission$sales)  # [1] 14.94032
 MAPE(validate_data$sales,submission$sales)  # [1] 0.1952223
 RMSLE(validate_data$sales,submission$sales) # [1] 0.278096
-sMAPE(validae_data$sales,submission$sales)  # [1] 0.2178649
+sMAPE(validate_data$sales,submission$sales)  # [1] 0.2178649
 
 ################################## PREDICTING FOR NEXT 90 DAYS ######################
 
